@@ -1,2 +1,2 @@
-# gotymex-test
+# GTM_pilot
 Data_Engineering_Take-Home__Lending_Analytics_Design
